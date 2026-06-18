@@ -1,0 +1,501 @@
+CustomerID,Age,Gender,Occupation,Income,State
+CUST1000,59,Male,Teacher,44596,Balochistan
+CUST1001,49,Female,Government Employee,162351,Balochistan
+CUST1002,35,Female,Teacher,224269,Islamabad
+CUST1003,63,Male,Government Employee,168155,Punjab
+CUST1004,28,Female,Government Employee,150674,Islamabad
+CUST1005,41,Male,Student,287529,KPK
+CUST1006,59,Male,Teacher,270469,Sindh
+CUST1007,39,Male,Government Employee,286713,KPK
+CUST1008,43,Female,Engineer,49063,Gilgit Baltistan
+CUST1009,31,Female,Doctor,97642,Balochistan
+CUST1010,31,Male,Business Owner,120093,Islamabad
+CUST1011,44,Male,Business Owner,247215,Islamabad
+CUST1012,56,Male,Student,212992,Islamabad
+CUST1013,60,Male,Teacher,189601,KPK
+CUST1014,44,Female,Teacher,65954,Balochistan
+CUST1015,23,Female,Government Employee,57856,Sindh
+CUST1016,42,Male,Salaried,32573,Gilgit Baltistan
+CUST1017,22,Male,Government Employee,65367,Sindh
+CUST1018,44,Female,Doctor,267804,KPK
+CUST1019,64,Female,Engineer,53752,Gilgit Baltistan
+CUST1020,50,Male,Business Owner,347173,Islamabad
+CUST1021,58,Male,Government Employee,178757,Punjab
+CUST1022,22,Male,Salaried,343837,KPK
+CUST1023,41,Female,Salaried,146739,KPK
+CUST1024,53,Female,Government Employee,348105,Balochistan
+CUST1025,32,Female,Student,268009,Sindh
+CUST1026,42,Male,Business Owner,286028,KPK
+CUST1027,64,Male,Student,237980,KPK
+CUST1028,45,Female,Engineer,286609,Islamabad
+CUST1029,47,Female,Salaried,348277,Islamabad
+CUST1030,62,Male,Salaried,218456,Gilgit Baltistan
+CUST1031,48,Female,Doctor,61653,Punjab
+CUST1032,36,Female,Engineer,187729,Balochistan
+CUST1033,35,Male,Salaried,258504,Punjab
+CUST1034,64,Female,Engineer,151829,Gilgit Baltistan
+CUST1035,23,Male,Business Owner,158377,Islamabad
+CUST1036,57,Male,Teacher,31622,Sindh
+CUST1037,27,Male,Salaried,78756,Islamabad
+CUST1038,41,Male,Doctor,70809,Balochistan
+CUST1039,29,Male,Business Owner,46725,Islamabad
+CUST1040,59,Male,Government Employee,222468,Balochistan
+CUST1041,38,Male,Engineer,81226,Balochistan
+CUST1042,24,Female,Government Employee,111182,Balochistan
+CUST1043,45,Male,Student,59402,Gilgit Baltistan
+CUST1044,34,Male,Business Owner,34263,Balochistan
+CUST1045,29,Female,Government Employee,257595,Balochistan
+CUST1046,46,Female,Salaried,207900,Sindh
+CUST1047,22,Female,Engineer,77924,Punjab
+CUST1048,40,Male,Teacher,254137,KPK
+CUST1049,48,Female,Business Owner,327881,Punjab
+CUST1050,27,Male,Salaried,190445,Balochistan
+CUST1051,64,Male,Doctor,197469,Sindh
+CUST1052,28,Male,Student,131371,Islamabad
+CUST1053,55,Male,Engineer,68709,Sindh
+CUST1054,34,Female,Business Owner,222192,Balochistan
+CUST1055,37,Female,Business Owner,180322,Sindh
+CUST1056,56,Male,Teacher,51172,Sindh
+CUST1057,60,Male,Teacher,41555,Balochistan
+CUST1058,24,Male,Doctor,83276,Gilgit Baltistan
+CUST1059,22,Female,Student,87492,Sindh
+CUST1060,26,Male,Doctor,214074,KPK
+CUST1061,62,Male,Salaried,286010,KPK
+CUST1062,24,Female,Salaried,252320,Sindh
+CUST1063,49,Female,Doctor,41046,Gilgit Baltistan
+CUST1064,38,Male,Student,258071,Islamabad
+CUST1065,46,Female,Doctor,214374,Balochistan
+CUST1066,64,Female,Student,296997,KPK
+CUST1067,54,Male,Student,150900,Islamabad
+CUST1068,30,Female,Government Employee,89129,Sindh
+CUST1069,56,Male,Engineer,267091,Islamabad
+CUST1070,34,Female,Student,235550,Punjab
+CUST1071,51,Male,Teacher,274883,KPK
+CUST1072,35,Male,Student,144130,Sindh
+CUST1073,28,Male,Student,176922,Balochistan
+CUST1074,34,Female,Student,151789,Gilgit Baltistan
+CUST1075,43,Male,Government Employee,185130,Sindh
+CUST1076,60,Female,Government Employee,206492,Balochistan
+CUST1077,41,Male,Salaried,68890,Gilgit Baltistan
+CUST1078,36,Male,Government Employee,96017,Gilgit Baltistan
+CUST1079,38,Female,Teacher,208376,Sindh
+CUST1080,44,Male,Teacher,193993,Islamabad
+CUST1081,46,Male,Government Employee,162596,Islamabad
+CUST1082,45,Female,Doctor,130424,Gilgit Baltistan
+CUST1083,61,Male,Engineer,307192,Islamabad
+CUST1084,49,Male,Government Employee,198976,Punjab
+CUST1085,35,Male,Student,347056,Gilgit Baltistan
+CUST1086,21,Male,Business Owner,64008,Gilgit Baltistan
+CUST1087,45,Female,Engineer,235738,Balochistan
+CUST1088,27,Female,Engineer,113559,Islamabad
+CUST1089,29,Male,Teacher,85337,Gilgit Baltistan
+CUST1090,44,Female,Engineer,305494,Punjab
+CUST1091,21,Male,Government Employee,54354,Balochistan
+CUST1092,64,Female,Student,75186,Sindh
+CUST1093,28,Male,Student,58145,Gilgit Baltistan
+CUST1094,44,Male,Salaried,116123,Punjab
+CUST1095,31,Male,Student,236258,KPK
+CUST1096,37,Male,Student,246541,Punjab
+CUST1097,28,Male,Teacher,50581,Punjab
+CUST1098,55,Male,Student,118929,Balochistan
+CUST1099,55,Female,Salaried,315195,Sindh
+CUST1100,53,Male,Business Owner,81474,KPK
+CUST1101,25,Female,Government Employee,121748,Islamabad
+CUST1102,62,Male,Teacher,155995,Islamabad
+CUST1103,59,Female,Business Owner,275690,Punjab
+CUST1104,61,Female,Teacher,299104,Balochistan
+CUST1105,48,Female,Doctor,210553,Balochistan
+CUST1106,27,Male,Engineer,66408,Islamabad
+CUST1107,29,Male,Doctor,289568,KPK
+CUST1108,28,Female,Student,349278,Sindh
+CUST1109,32,Male,Business Owner,181563,KPK
+CUST1110,54,Female,Student,162413,Gilgit Baltistan
+CUST1111,53,Male,Engineer,205695,Gilgit Baltistan
+CUST1112,43,Female,Teacher,120327,Sindh
+CUST1113,44,Female,Engineer,232503,Islamabad
+CUST1114,57,Male,Salaried,173326,Sindh
+CUST1115,55,Female,Engineer,212932,Balochistan
+CUST1116,64,Male,Salaried,41344,Gilgit Baltistan
+CUST1117,60,Female,Engineer,97957,Punjab
+CUST1118,42,Female,Government Employee,135423,Punjab
+CUST1119,47,Male,Salaried,176968,Islamabad
+CUST1120,55,Male,Business Owner,216833,Balochistan
+CUST1121,21,Male,Student,223624,KPK
+CUST1122,55,Female,Student,281147,Balochistan
+CUST1123,57,Male,Doctor,107454,Punjab
+CUST1124,34,Female,Student,287594,Punjab
+CUST1125,23,Female,Teacher,67641,Gilgit Baltistan
+CUST1126,21,Male,Government Employee,59711,Balochistan
+CUST1127,25,Male,Engineer,173254,Balochistan
+CUST1128,46,Female,Doctor,117833,Punjab
+CUST1129,34,Female,Teacher,348420,KPK
+CUST1130,59,Male,Teacher,311685,Islamabad
+CUST1131,47,Male,Salaried,74813,Islamabad
+CUST1132,29,Male,Student,198270,Balochistan
+CUST1133,35,Male,Business Owner,169892,Islamabad
+CUST1134,35,Male,Business Owner,316214,Punjab
+CUST1135,46,Female,Doctor,234615,Punjab
+CUST1136,62,Female,Government Employee,71786,Balochistan
+CUST1137,33,Female,Business Owner,256006,Balochistan
+CUST1138,52,Female,Engineer,260876,Gilgit Baltistan
+CUST1139,59,Male,Business Owner,328206,Balochistan
+CUST1140,52,Male,Doctor,343715,KPK
+CUST1141,24,Male,Business Owner,317654,Islamabad
+CUST1142,50,Female,Engineer,311570,Balochistan
+CUST1143,57,Female,Salaried,67265,Sindh
+CUST1144,43,Male,Government Employee,279321,Gilgit Baltistan
+CUST1145,59,Male,Doctor,96150,Sindh
+CUST1146,35,Female,Salaried,117312,Punjab
+CUST1147,63,Female,Salaried,119613,Islamabad
+CUST1148,49,Male,Salaried,344519,Balochistan
+CUST1149,56,Male,Teacher,151826,Sindh
+CUST1150,33,Female,Government Employee,65435,Islamabad
+CUST1151,52,Male,Student,240017,Punjab
+CUST1152,27,Male,Government Employee,164055,KPK
+CUST1153,42,Male,Teacher,181734,Gilgit Baltistan
+CUST1154,48,Female,Student,315654,Islamabad
+CUST1155,22,Female,Government Employee,239259,Islamabad
+CUST1156,62,Female,Salaried,202070,KPK
+CUST1157,26,Female,Doctor,124071,Islamabad
+CUST1158,48,Female,Student,298784,Punjab
+CUST1159,48,Female,Engineer,336691,Punjab
+CUST1160,64,Female,Engineer,346764,KPK
+CUST1161,64,Male,Business Owner,176389,Gilgit Baltistan
+CUST1162,40,Male,Student,145608,Balochistan
+CUST1163,50,Male,Doctor,299708,Sindh
+CUST1164,31,Male,Teacher,188417,Balochistan
+CUST1165,48,Male,Salaried,143824,Islamabad
+CUST1166,45,Male,Business Owner,284444,Sindh
+CUST1167,59,Male,Engineer,109273,KPK
+CUST1168,53,Female,Teacher,241837,KPK
+CUST1169,21,Female,Teacher,140017,Gilgit Baltistan
+CUST1170,47,Male,Salaried,153618,Sindh
+CUST1171,33,Male,Student,155341,Punjab
+CUST1172,61,Female,Engineer,321574,Sindh
+CUST1173,23,Male,Doctor,236604,Islamabad
+CUST1174,59,Male,Teacher,57788,Punjab
+CUST1175,26,Female,Salaried,256577,KPK
+CUST1176,28,Male,Doctor,69974,Sindh
+CUST1177,47,Female,Student,46371,Balochistan
+CUST1178,29,Male,Engineer,337228,Gilgit Baltistan
+CUST1179,57,Female,Student,212256,Balochistan
+CUST1180,53,Female,Teacher,103972,Gilgit Baltistan
+CUST1181,62,Female,Doctor,223259,Islamabad
+CUST1182,64,Male,Doctor,305128,Balochistan
+CUST1183,44,Female,Doctor,325183,Sindh
+CUST1184,35,Male,Teacher,115431,Sindh
+CUST1185,52,Male,Teacher,135373,Balochistan
+CUST1186,52,Male,Student,211144,Sindh
+CUST1187,44,Male,Business Owner,316718,Islamabad
+CUST1188,61,Female,Student,280195,Punjab
+CUST1189,32,Female,Engineer,173748,Islamabad
+CUST1190,59,Male,Salaried,62733,Gilgit Baltistan
+CUST1191,22,Male,Doctor,246752,Islamabad
+CUST1192,23,Female,Business Owner,32050,Gilgit Baltistan
+CUST1193,57,Male,Salaried,139996,Sindh
+CUST1194,37,Female,Business Owner,63933,Punjab
+CUST1195,22,Male,Government Employee,54951,Sindh
+CUST1196,22,Male,Student,62413,KPK
+CUST1197,48,Female,Teacher,195873,Sindh
+CUST1198,43,Male,Doctor,216691,Gilgit Baltistan
+CUST1199,57,Female,Student,218847,Sindh
+CUST1200,52,Male,Salaried,251888,Sindh
+CUST1201,53,Male,Government Employee,291044,Punjab
+CUST1202,21,Male,Government Employee,251165,Sindh
+CUST1203,39,Female,Government Employee,273662,Punjab
+CUST1204,22,Male,Salaried,196472,Balochistan
+CUST1205,64,Male,Salaried,241760,KPK
+CUST1206,46,Male,Salaried,152744,Punjab
+CUST1207,52,Male,Salaried,235763,Gilgit Baltistan
+CUST1208,26,Female,Government Employee,73001,Balochistan
+CUST1209,52,Female,Government Employee,97364,Punjab
+CUST1210,24,Male,Business Owner,337172,Punjab
+CUST1211,31,Female,Student,268506,KPK
+CUST1212,37,Male,Doctor,258731,Gilgit Baltistan
+CUST1213,58,Male,Teacher,161878,Islamabad
+CUST1214,44,Male,Government Employee,217710,Islamabad
+CUST1215,25,Female,Teacher,158301,Punjab
+CUST1216,54,Female,Student,190829,Sindh
+CUST1217,26,Female,Student,64636,Gilgit Baltistan
+CUST1218,42,Female,Teacher,241169,Balochistan
+CUST1219,31,Female,Government Employee,209352,Sindh
+CUST1220,36,Female,Teacher,316406,Sindh
+CUST1221,53,Female,Business Owner,223283,Gilgit Baltistan
+CUST1222,29,Female,Engineer,275596,Punjab
+CUST1223,26,Female,Government Employee,333988,Punjab
+CUST1224,36,Male,Government Employee,332186,Punjab
+CUST1225,49,Female,Doctor,91665,Punjab
+CUST1226,23,Female,Salaried,276584,Islamabad
+CUST1227,40,Female,Engineer,146953,Punjab
+CUST1228,56,Female,Student,188448,Islamabad
+CUST1229,39,Female,Government Employee,216626,Islamabad
+CUST1230,46,Female,Teacher,175271,Punjab
+CUST1231,23,Female,Engineer,148533,KPK
+CUST1232,39,Female,Doctor,103781,Balochistan
+CUST1233,40,Female,Student,96262,Sindh
+CUST1234,52,Female,Salaried,338744,Islamabad
+CUST1235,27,Female,Salaried,106898,Gilgit Baltistan
+CUST1236,61,Male,Doctor,179369,Gilgit Baltistan
+CUST1237,53,Male,Doctor,60448,Balochistan
+CUST1238,60,Female,Teacher,318316,Gilgit Baltistan
+CUST1239,59,Female,Government Employee,37657,KPK
+CUST1240,38,Male,Salaried,286689,Gilgit Baltistan
+CUST1241,60,Female,Student,189903,Sindh
+CUST1242,21,Male,Engineer,37906,Sindh
+CUST1243,31,Male,Student,84028,Islamabad
+CUST1244,48,Male,Business Owner,299431,Punjab
+CUST1245,45,Male,Business Owner,325804,KPK
+CUST1246,43,Male,Doctor,220792,Islamabad
+CUST1247,51,Female,Teacher,132979,KPK
+CUST1248,50,Male,Business Owner,64701,Punjab
+CUST1249,62,Female,Salaried,113300,Gilgit Baltistan
+CUST1250,55,Female,Student,271249,Gilgit Baltistan
+CUST1251,27,Male,Student,178746,Punjab
+CUST1252,36,Male,Doctor,113560,Islamabad
+CUST1253,46,Female,Government Employee,272615,Punjab
+CUST1254,22,Male,Government Employee,73642,Balochistan
+CUST1255,21,Male,Engineer,309746,Sindh
+CUST1256,32,Female,Doctor,118801,Islamabad
+CUST1257,25,Female,Engineer,318075,KPK
+CUST1258,57,Male,Government Employee,124377,Balochistan
+CUST1259,52,Female,Doctor,321336,Islamabad
+CUST1260,29,Male,Doctor,338686,Punjab
+CUST1261,61,Male,Doctor,334664,Punjab
+CUST1262,55,Male,Government Employee,342250,Punjab
+CUST1263,39,Female,Engineer,111121,Punjab
+CUST1264,36,Female,Engineer,55559,KPK
+CUST1265,23,Female,Doctor,63742,Balochistan
+CUST1266,40,Female,Business Owner,182826,Gilgit Baltistan
+CUST1267,44,Female,Teacher,165044,Sindh
+CUST1268,53,Male,Government Employee,142217,KPK
+CUST1269,44,Male,Teacher,71873,KPK
+CUST1270,31,Male,Teacher,164092,Gilgit Baltistan
+CUST1271,28,Male,Engineer,333899,Gilgit Baltistan
+CUST1272,56,Female,Engineer,116988,Sindh
+CUST1273,58,Male,Business Owner,75648,Sindh
+CUST1274,60,Female,Teacher,155991,Gilgit Baltistan
+CUST1275,40,Male,Teacher,32396,Punjab
+CUST1276,55,Female,Doctor,114082,KPK
+CUST1277,45,Female,Engineer,158322,Islamabad
+CUST1278,55,Male,Teacher,162663,Sindh
+CUST1279,45,Male,Student,41303,Sindh
+CUST1280,49,Male,Business Owner,191633,Gilgit Baltistan
+CUST1281,38,Male,Student,279690,Balochistan
+CUST1282,38,Female,Student,289820,Islamabad
+CUST1283,22,Male,Government Employee,129616,Islamabad
+CUST1284,55,Male,Government Employee,116231,Sindh
+CUST1285,36,Female,Business Owner,299458,Punjab
+CUST1286,61,Male,Student,49623,Balochistan
+CUST1287,56,Male,Teacher,228747,Islamabad
+CUST1288,53,Male,Engineer,135228,Sindh
+CUST1289,24,Male,Business Owner,212828,Islamabad
+CUST1290,53,Male,Doctor,187364,Balochistan
+CUST1291,34,Female,Student,99274,Balochistan
+CUST1292,41,Male,Business Owner,163541,KPK
+CUST1293,40,Male,Salaried,83947,Gilgit Baltistan
+CUST1294,28,Male,Salaried,183606,Gilgit Baltistan
+CUST1295,27,Male,Government Employee,224692,Sindh
+CUST1296,23,Male,Engineer,78874,Balochistan
+CUST1297,37,Female,Teacher,79708,KPK
+CUST1298,53,Male,Engineer,104553,KPK
+CUST1299,32,Female,Engineer,98344,Islamabad
+CUST1300,42,Female,Engineer,341282,Islamabad
+CUST1301,42,Male,Engineer,215374,KPK
+CUST1302,50,Male,Doctor,77638,Islamabad
+CUST1303,58,Male,Doctor,108249,Balochistan
+CUST1304,58,Male,Government Employee,32719,Punjab
+CUST1305,28,Female,Business Owner,183962,Balochistan
+CUST1306,47,Male,Salaried,72534,KPK
+CUST1307,47,Male,Engineer,122241,KPK
+CUST1308,54,Male,Government Employee,156209,Balochistan
+CUST1309,41,Male,Business Owner,219004,Islamabad
+CUST1310,50,Male,Salaried,122124,Islamabad
+CUST1311,53,Male,Student,121659,Gilgit Baltistan
+CUST1312,48,Female,Teacher,194134,KPK
+CUST1313,53,Female,Doctor,105713,Sindh
+CUST1314,25,Male,Student,248335,Gilgit Baltistan
+CUST1315,39,Male,Salaried,105418,Islamabad
+CUST1316,24,Male,Student,158232,Balochistan
+CUST1317,55,Female,Teacher,193038,Islamabad
+CUST1318,37,Male,Government Employee,198383,Balochistan
+CUST1319,64,Female,Salaried,323719,Gilgit Baltistan
+CUST1320,48,Male,Student,288722,KPK
+CUST1321,50,Male,Doctor,162079,Islamabad
+CUST1322,49,Male,Doctor,232053,Balochistan
+CUST1323,26,Male,Business Owner,106242,KPK
+CUST1324,55,Female,Student,208589,Sindh
+CUST1325,61,Female,Engineer,59257,Balochistan
+CUST1326,57,Male,Student,174353,Gilgit Baltistan
+CUST1327,44,Male,Government Employee,293579,Sindh
+CUST1328,49,Female,Salaried,259947,Sindh
+CUST1329,51,Female,Salaried,261758,Punjab
+CUST1330,55,Female,Government Employee,121357,Islamabad
+CUST1331,53,Female,Student,187732,Balochistan
+CUST1332,41,Male,Government Employee,233667,Sindh
+CUST1333,52,Female,Teacher,113807,Punjab
+CUST1334,43,Male,Government Employee,168563,Gilgit Baltistan
+CUST1335,53,Female,Doctor,288778,KPK
+CUST1336,23,Female,Government Employee,211264,Balochistan
+CUST1337,38,Female,Salaried,103609,Sindh
+CUST1338,45,Female,Doctor,301221,Islamabad
+CUST1339,62,Female,Salaried,278512,Punjab
+CUST1340,51,Male,Business Owner,283973,Sindh
+CUST1341,23,Male,Engineer,313097,Islamabad
+CUST1342,60,Female,Salaried,184893,Sindh
+CUST1343,44,Female,Doctor,145374,Balochistan
+CUST1344,52,Male,Business Owner,54860,Balochistan
+CUST1345,42,Female,Salaried,182267,Balochistan
+CUST1346,43,Female,Teacher,107475,Gilgit Baltistan
+CUST1347,22,Male,Government Employee,182499,Gilgit Baltistan
+CUST1348,47,Female,Engineer,319227,Punjab
+CUST1349,62,Female,Salaried,248118,Balochistan
+CUST1350,22,Male,Business Owner,349516,Islamabad
+CUST1351,46,Male,Teacher,153786,Sindh
+CUST1352,37,Male,Student,37813,KPK
+CUST1353,60,Female,Business Owner,61598,Islamabad
+CUST1354,53,Male,Government Employee,287951,Gilgit Baltistan
+CUST1355,29,Male,Business Owner,123106,Gilgit Baltistan
+CUST1356,63,Male,Teacher,319226,Islamabad
+CUST1357,59,Male,Business Owner,321385,Gilgit Baltistan
+CUST1358,49,Male,Teacher,257286,Balochistan
+CUST1359,62,Male,Salaried,41745,Punjab
+CUST1360,46,Female,Teacher,318173,Sindh
+CUST1361,55,Female,Teacher,174097,Punjab
+CUST1362,45,Male,Engineer,262732,Sindh
+CUST1363,44,Male,Teacher,175360,Sindh
+CUST1364,33,Male,Teacher,119186,Punjab
+CUST1365,27,Female,Student,243030,Islamabad
+CUST1366,56,Female,Salaried,229950,Sindh
+CUST1367,40,Female,Government Employee,71846,Punjab
+CUST1368,21,Female,Engineer,178554,Sindh
+CUST1369,28,Female,Student,315555,KPK
+CUST1370,36,Female,Doctor,344451,Islamabad
+CUST1371,34,Female,Salaried,314186,Balochistan
+CUST1372,32,Female,Salaried,82930,Sindh
+CUST1373,43,Female,Doctor,278656,KPK
+CUST1374,35,Male,Government Employee,274459,Balochistan
+CUST1375,48,Male,Teacher,254695,Balochistan
+CUST1376,54,Male,Student,325900,Sindh
+CUST1377,22,Male,Business Owner,83268,Punjab
+CUST1378,52,Female,Engineer,242943,Sindh
+CUST1379,43,Female,Business Owner,288916,KPK
+CUST1380,42,Male,Doctor,214403,Balochistan
+CUST1381,45,Female,Salaried,78901,Sindh
+CUST1382,42,Male,Government Employee,224488,Punjab
+CUST1383,42,Female,Salaried,193268,Sindh
+CUST1384,62,Male,Engineer,297770,Islamabad
+CUST1385,26,Female,Salaried,168496,Punjab
+CUST1386,35,Female,Salaried,305001,KPK
+CUST1387,63,Male,Engineer,271531,Balochistan
+CUST1388,57,Female,Student,276693,Sindh
+CUST1389,53,Male,Student,209362,Punjab
+CUST1390,28,Male,Engineer,56431,Islamabad
+CUST1391,64,Male,Government Employee,268360,Punjab
+CUST1392,64,Male,Doctor,56385,Gilgit Baltistan
+CUST1393,25,Female,Salaried,310783,Islamabad
+CUST1394,59,Female,Government Employee,115530,KPK
+CUST1395,24,Female,Salaried,260983,Balochistan
+CUST1396,26,Male,Doctor,313707,KPK
+CUST1397,52,Female,Student,235390,Sindh
+CUST1398,50,Male,Government Employee,273373,Punjab
+CUST1399,55,Female,Teacher,191779,Gilgit Baltistan
+CUST1400,60,Female,Teacher,200182,Islamabad
+CUST1401,36,Female,Teacher,222860,Islamabad
+CUST1402,33,Male,Student,112879,Punjab
+CUST1403,62,Female,Student,268260,Gilgit Baltistan
+CUST1404,50,Female,Doctor,337003,Punjab
+CUST1405,39,Male,Salaried,344242,Sindh
+CUST1406,37,Female,Doctor,176323,KPK
+CUST1407,39,Male,Doctor,152413,Islamabad
+CUST1408,48,Female,Student,292670,Sindh
+CUST1409,46,Male,Teacher,77837,KPK
+CUST1410,57,Male,Business Owner,290550,Sindh
+CUST1411,46,Female,Salaried,303680,Gilgit Baltistan
+CUST1412,43,Male,Student,58541,Islamabad
+CUST1413,29,Male,Teacher,109083,Punjab
+CUST1414,32,Male,Government Employee,64531,Punjab
+CUST1415,21,Male,Business Owner,300856,KPK
+CUST1416,21,Male,Business Owner,104744,Balochistan
+CUST1417,54,Male,Student,282859,Gilgit Baltistan
+CUST1418,52,Female,Engineer,159749,KPK
+CUST1419,45,Male,Salaried,297253,Balochistan
+CUST1420,60,Male,Business Owner,341412,Sindh
+CUST1421,21,Female,Student,261809,Gilgit Baltistan
+CUST1422,36,Female,Student,346759,Sindh
+CUST1423,59,Female,Teacher,112503,Islamabad
+CUST1424,25,Female,Government Employee,284346,Gilgit Baltistan
+CUST1425,42,Female,Engineer,115708,Balochistan
+CUST1426,49,Female,Salaried,221184,Islamabad
+CUST1427,23,Female,Doctor,132471,Punjab
+CUST1428,32,Male,Government Employee,284225,Balochistan
+CUST1429,46,Male,Government Employee,187661,KPK
+CUST1430,36,Female,Teacher,191087,Punjab
+CUST1431,57,Male,Business Owner,190081,Punjab
+CUST1432,42,Male,Business Owner,223118,KPK
+CUST1433,49,Male,Teacher,187215,Gilgit Baltistan
+CUST1434,34,Female,Student,36154,Punjab
+CUST1435,48,Female,Business Owner,182876,Balochistan
+CUST1436,25,Male,Engineer,94288,Islamabad
+CUST1437,50,Female,Salaried,81195,Punjab
+CUST1438,25,Male,Government Employee,312725,Balochistan
+CUST1439,32,Male,Government Employee,322231,Sindh
+CUST1440,36,Male,Engineer,211002,Balochistan
+CUST1441,46,Male,Business Owner,194053,Islamabad
+CUST1442,46,Female,Government Employee,99298,Balochistan
+CUST1443,41,Female,Doctor,338311,KPK
+CUST1444,59,Female,Salaried,236376,Islamabad
+CUST1445,56,Male,Salaried,69499,Gilgit Baltistan
+CUST1446,53,Female,Government Employee,199631,Sindh
+CUST1447,50,Male,Teacher,275198,KPK
+CUST1448,57,Female,Government Employee,272997,Gilgit Baltistan
+CUST1449,43,Male,Teacher,126347,Balochistan
+CUST1450,30,Male,Government Employee,340931,Islamabad
+CUST1451,25,Male,Doctor,327632,Sindh
+CUST1452,56,Female,Student,235735,KPK
+CUST1453,54,Female,Salaried,52431,Gilgit Baltistan
+CUST1454,51,Female,Government Employee,224555,Gilgit Baltistan
+CUST1455,30,Female,Doctor,152720,Sindh
+CUST1456,39,Male,Teacher,79153,Balochistan
+CUST1457,52,Female,Teacher,298512,Sindh
+CUST1458,21,Female,Salaried,206076,Gilgit Baltistan
+CUST1459,25,Male,Engineer,249724,Punjab
+CUST1460,24,Male,Government Employee,86985,KPK
+CUST1461,36,Male,Business Owner,342213,Sindh
+CUST1462,44,Female,Teacher,344470,Gilgit Baltistan
+CUST1463,36,Male,Student,138737,Balochistan
+CUST1464,22,Male,Student,242133,Gilgit Baltistan
+CUST1465,48,Male,Teacher,184470,Balochistan
+CUST1466,52,Female,Engineer,259465,Sindh
+CUST1467,47,Male,Engineer,80861,Balochistan
+CUST1468,40,Female,Doctor,242977,Islamabad
+CUST1469,44,Female,Student,157118,Islamabad
+CUST1470,32,Male,Doctor,226713,Islamabad
+CUST1471,55,Male,Student,39078,Punjab
+CUST1472,53,Female,Government Employee,81047,Sindh
+CUST1473,53,Male,Government Employee,349804,Gilgit Baltistan
+CUST1474,63,Male,Business Owner,265458,Gilgit Baltistan
+CUST1475,57,Female,Government Employee,245048,Punjab
+CUST1476,32,Female,Business Owner,266293,Balochistan
+CUST1477,23,Male,Government Employee,147832,Punjab
+CUST1478,21,Female,Salaried,155150,Balochistan
+CUST1479,53,Male,Government Employee,187087,Balochistan
+CUST1480,60,Male,Doctor,63320,KPK
+CUST1481,30,Male,Teacher,120827,Gilgit Baltistan
+CUST1482,63,Female,Doctor,289931,Islamabad
+CUST1483,64,Male,Teacher,54826,Balochistan
+CUST1484,49,Male,Engineer,130734,KPK
+CUST1485,33,Male,Doctor,187702,Gilgit Baltistan
+CUST1486,32,Female,Engineer,259834,Islamabad
+CUST1487,51,Female,Business Owner,207235,Balochistan
+CUST1488,22,Female,Business Owner,128511,Balochistan
+CUST1489,55,Female,Salaried,303797,Punjab
+CUST1490,43,Female,Government Employee,189033,Punjab
+CUST1491,37,Male,Doctor,111941,Gilgit Baltistan
+CUST1492,46,Female,Engineer,235209,Islamabad
+CUST1493,28,Female,Teacher,325806,Balochistan
+CUST1494,49,Female,Business Owner,128818,Gilgit Baltistan
+CUST1495,46,Male,Government Employee,182360,Gilgit Baltistan
+CUST1496,30,Female,Business Owner,283627,Sindh
+CUST1497,46,Female,Teacher,125081,Punjab
+CUST1498,54,Male,Government Employee,66877,Islamabad
+CUST1499,61,Female,Government Employee,241957,Balochistan
